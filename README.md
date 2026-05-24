@@ -65,7 +65,7 @@ El dashboard incluye:
 - métricas de clientes
   <img width="1012" height="566" alt="image" src="https://github.com/user-attachments/assets/9ac1600e-5efa-45f7-b2fb-e1bcae6c7fc9" />
 - tiempos de entrega
-<img width="1009" height="566" alt="image" src="https://github.com/user-attachments/assets/8aa47521-4ecc-454e-8161-212059fcef12" />
+  <img width="1009" height="566" alt="image" src="https://github.com/user-attachments/assets/8aa47521-4ecc-454e-8161-212059fcef12" />
 
 ---
 
