@@ -59,11 +59,13 @@ Algunas transformaciones realizadas:
 El dashboard incluye:
 
 - KPIs generales
+  <img width="1006" height="566" alt="image" src="https://github.com/user-attachments/assets/d8e8ee74-7e3a-4ab4-b0ff-2a3d5988e520" />
 - métricas de vendedores
+  <img width="1009" height="566" alt="image" src="https://github.com/user-attachments/assets/49376cf7-3c4a-4aaa-9a07-30996ffe60d6" />
 - métricas de clientes
+  <img width="1012" height="566" alt="image" src="https://github.com/user-attachments/assets/9ac1600e-5efa-45f7-b2fb-e1bcae6c7fc9" />
 - tiempos de entrega
-
-<img width="1006" height="566" alt="image" src="https://github.com/user-attachments/assets/d8e8ee74-7e3a-4ab4-b0ff-2a3d5988e520" />
+<img width="1009" height="566" alt="image" src="https://github.com/user-attachments/assets/8aa47521-4ecc-454e-8161-212059fcef12" />
 
 ---
 
